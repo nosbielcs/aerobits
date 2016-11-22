@@ -1,2 +1,8 @@
 #manufacture
 http://www.icao.int/publications/DOC8643/Pages/ManufacturersName.aspx
+
+#species animals
+http://checklist.cites.org/#/es
+
+#airplanes
+http://http://www.airframes.org/
