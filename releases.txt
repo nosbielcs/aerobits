@@ -1,6 +1,8 @@
-#Airplanes Manufacturer
+#Airplanes Manufactures
 
-#Airplanes Model
+#Airplanes Models
+
+#Airplanes Details
 
 #Airplane Parts Model
 
