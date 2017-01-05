@@ -12,4 +12,4 @@
 
 #Airplanes Component Details Model
 
-#Airplanes Manufactures Parts Model
+#Airplanes Manufactures Parts Model Details
