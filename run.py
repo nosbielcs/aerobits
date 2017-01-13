@@ -7,3 +7,6 @@ def init(self, base):
 def config(self, base):
     at = os.path
     return self.base
+
+def origin(self, base):
+   return pass
