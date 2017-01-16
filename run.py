@@ -2,6 +2,8 @@
 import re, os
 
 def init(self, base):
+    if self.roll:
+        pass
     return os.path.join(base)
 
 def config(self, base):
