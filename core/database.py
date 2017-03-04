@@ -1,0 +1,4 @@
+import database
+
+def mysql_connect(self, params):
+    return pass

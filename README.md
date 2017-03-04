@@ -1,3 +1,3 @@
 # AeroBits - Scraping Databases for Aviation Services
 
-Project status - 0.7%
+Project status - 0.8%
