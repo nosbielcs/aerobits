@@ -8,7 +8,10 @@ def init(self, base):
 
 def config(self, base):
     at = os.path
-    return self.base
+    if at:
+        return self.base
+    else:
+        return None
 
 def origin(self, base):
    return pass
