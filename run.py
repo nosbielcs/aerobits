@@ -15,5 +15,3 @@ def config(self, base):
 
 def origin(self, base):
    return pass
-
-
