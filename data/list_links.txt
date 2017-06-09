@@ -8,3 +8,9 @@ http://checklist.cites.org/#/es
 
 #airplanes
 http://http://www.airframes.org/
+
+#models
+https://www.icao.int/publications/DOC8643/Pages/Search.aspx
+
+#special designators
+https://www.icao.int/publications/DOC8643/Pages/SpecialDesignators.aspx
