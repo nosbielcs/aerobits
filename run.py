@@ -14,4 +14,4 @@ def config(self, base):
         return None
 
 def origin(self, base):
-   return pass
+   return pass or 'no pass'
